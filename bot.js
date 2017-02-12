@@ -6,16 +6,26 @@ var Bot = new TwitterBot({
  access_token: process.env.BOT_ACCESS_TOKEN,
  access_token_secret: process.env.BOT_ACCESS_TOKEN_SECRET
 });
-var phraseArray = [ "hey twitter",
-                    "im tweeting",
-                    "tweet tweet",
-                    "tweetstorm time... 1/22",
-                    "plz RT v important",
-                    "delete ur account",
+var phraseArray = [ "#heylibrary",
+                    "Libraries make",
+                    "Library believes",
+                    "Librarians search",
+                    "Books are for reading",
+                    "Libraries are bougie",
                     "it me",
-                    "same",
-                    "#dogpants go on 4 legs!!",
-                    "#thedress is blue and black" ];
+                    "Bibliophiles make America great",
+                    "stuff + things",
+                    "it was the best of times",
+                    "happiness",
+                    "Library says",
+                    "Libraries look",
+                    "Librarians quantify",
+                    "Books save",
+                    "Reading is giving",
+                    "Libraries cannot be",
+                    "Library shows",
+                    "Library funds",
+                    "#abook is blue and black" ];
 function chooseRandom(myArray) {
   return myArray[Math.floor(Math.random() * myArray.length)];
 }
