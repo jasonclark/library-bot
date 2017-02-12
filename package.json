@@ -1,0 +1,29 @@
+{
+  "name": "library-bot",
+  "version": "1.0.0",
+  "description": "a library twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonclark/library-bot.git"
+  },
+  "keywords": [
+    "books",
+    "library",
+    "codex",
+    "hack"
+  ],
+  "author": "@jaclark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonclark/library-bot/issues"
+  },
+  "homepage": "https://github.com/jasonclark/library-bot#readme",
+  "dependencies": {
+    "node-twitterbot": "^0.2.2",
+    "twit": "^2.2.5"
+  }
+}
