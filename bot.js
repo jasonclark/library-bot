@@ -21,7 +21,4 @@ function chooseRandom(myArray) {
 }
 var phrase = chooseRandom(phraseArray) + ", " + chooseRandom(phraseArray);
 
-setInterval(
-  Bot.tweet(phrase),
-  30000
-);
+Bot.tweet(phrase);
