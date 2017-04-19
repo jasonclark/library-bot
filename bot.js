@@ -8,6 +8,10 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Who will be your #book this season?",
+                    "This is the saddest story I have ever heard.",
+                    "Time is not a line but a dimension",
+                    "In the late summer of that year we lived in a house in a village",
                     "Youtube.com says",
                     "Youtube.com believes",
                     "Youtube.com rejects",
