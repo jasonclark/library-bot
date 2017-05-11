@@ -8,6 +8,7 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "watch yourself softly becoming the author of something beautiful",
                     "Who will be your #book this season?",
                     "This is the saddest story I have ever heard.",
                     "hidden in the old #books written by people who weren't afraid to be honest",
