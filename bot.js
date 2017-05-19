@@ -8,6 +8,11 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Long before the first bugles sounded from the barracks within the city",
+                    "From beyond the screen of bushes which surrounded the spring",
+                    "The courthouse is less old than the town",
+                    "It was just noon that Sunday morning when the sheriff reached the jail",
+                    "Sitting beside the road, watching the wagon mount the hill toward her",
                     "watch yourself softly becoming the author of something beautiful",
                     "Who will be your #book this season?",
                     "This is the saddest story I have ever heard.",
