@@ -8,9 +8,22 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Dig if you will the picture",
+                    "Dream if you can a courtyard",
+                    "Dearly beloved, We are gathered here today",
+                    "Act your age, mama (Not your shoe size)",
+                    "Lay down your funky weapon",
+                    "The kind you find in a second hand store",
+                    "I was dreamin' when I wrote this",
+                    "But it was Saturday night I guess that makes it all right",
+                    "You don't have to be cool to rule my world",
+                    "I only wanted to see you laughing in the purple rain"
+                    "Wait for the common sense of the morning",
                     "The grandmother didn’t want to go to Florida",
                     "Reader, I married him",
                     "It is a truth universally acknowledged",
+                    "Time is the longest distance between two places",
+                    "There is light in darkness, you just have to find it"
                     "Our histories cling to us", 
                     "We are shaped by where we come from",
                     "Long before the first bugles sounded from the barracks within the city",
