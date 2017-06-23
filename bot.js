@@ -17,7 +17,7 @@ var phraseArray = [ "#heylibrary",
                     "I was dreamin' when I wrote this",
                     "But it was Saturday night I guess that makes it all right",
                     "You don't have to be cool to rule my world",
-                    "I only wanted to see you laughing in the purple rain"
+                    "I only wanted to see you laughing in the purple rain",
                     "Wait for the common sense of the morning",
                     "The grandmother didn’t want to go to Florida",
                     "Reader, I married him",
