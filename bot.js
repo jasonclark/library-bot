@@ -23,7 +23,7 @@ var phraseArray = [ "#heylibrary",
                     "Reader, I married him",
                     "It is a truth universally acknowledged",
                     "Time is the longest distance between two places",
-                    "There is light in darkness, you just have to find it"
+                    "There is light in darkness, you just have to find it",
                     "Our histories cling to us", 
                     "We are shaped by where we come from",
                     "Long before the first bugles sounded from the barracks within the city",
