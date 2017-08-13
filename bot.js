@@ -8,6 +8,10 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "what is so painful about reading is",
+		    "that you read something and you don't have anybody to share it with",
+                    "There is light in darkness, you just have to find it",
+                    "One of the most subversive institutions in the United States is the public library",
                     "The good parts of a book may be only something a writer is lucky enough to overhear",
                     "Everything good he had ever written he'd made up",
                     "It would be today until it was tonight and tomorrow would be today again",
