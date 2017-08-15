@@ -8,6 +8,8 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "they see that a book can lead to the pleasure of conversation",
+                    "the solitary act of reading can actually be a part of the path to communion",
                     "to his consciousness as a thinker when he had solitude to read",
                     "what is so painful about reading is",
 		    "that you read something and you don't have anybody to share it with",
