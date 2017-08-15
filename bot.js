@@ -8,6 +8,7 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "to his consciousness as a thinker when he had solitude to read",
                     "what is so painful about reading is",
 		    "that you read something and you don't have anybody to share it with",
                     "There is light in darkness, you just have to find it",
