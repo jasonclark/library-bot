@@ -8,6 +8,8 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "I got books with hooks and it looks like rain",
+                    "Like a thick ass book that's filled with wack rhymes",
                     "they see that a book can lead to the pleasure of conversation",
                     "the solitary act of reading can actually be a part of the path to communion",
                     "to his consciousness as a thinker when he had solitude to read",
