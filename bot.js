@@ -8,6 +8,12 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "as much a part of Springfield as the church, the library, or the crazy house",
+                    "But I am just a simple #librarian. I have only read about dancing in books.",
+                    "Hey, hey, this is not a lending library!",
+                    "They won’t let me in the big people library downtown, there was some… unpleasantness",
+                    "For more information on Grand Funk, consult your school library!",
+                    "Oooh, Friends of the Library is holding a historic manuscript viewing!",
                     "I've seen things you people wouldn't believe.",
                     "Attack ships on fire off the shoulder of Orion.",
                     "I watched C-beams glitter in the dark near the Tannhäuser Gate",
