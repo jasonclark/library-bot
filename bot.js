@@ -8,6 +8,11 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "The real war will never get in the books",
+                    "History, Stephen said, is a nightmare from which I am trying to awake.",
+                    "History is written by the victors.",
+                    "Those unable to catalog the past are doomed to repeat it.",
+                    "The sea is nothing but a library of all the tears in history.",
                     "You've got a real type of thing going down, gettin' down", 
                     "There's a whole lot of rhythm going round",
                     "Tear the roof off, we're gonna tear the roof off the mothersucker",
