@@ -8,6 +8,13 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Definitions belong to the definers, not the defined.",
+                    "Like any artist without an art form, she became dangerous.",
+                    "What's the world for you if you can't make it up the way you want it?",
+                    "Every sentence, every word, was new to them and they listened to what he said like bright-eyed ravens",
+                    "She gather me, man. The pieces I am, she gather them and give them back to me in all the right order.",
+                    "He read greedily but understood selectively",
+                    "It had been the longest time since she had had a rib-scraping laugh.",
                     "With the lights out, it's less dangerous",
                     "Here we are now, entertain us",
                     "I'm so happy 'cause today I found my friends / They're in my head",
