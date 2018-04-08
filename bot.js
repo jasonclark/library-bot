@@ -8,6 +8,11 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Pay attention, here's the thick of the plot",
+                    "I asked her for Adidas and she bought me Zips!",
+                    "Now, this is a story all about how my life got flipped-turned upside down",
+                    "In west Philadelphia born and raised / On the playground was where I spent most of my days",
+                    "Boom! shake-shake-shake the room",
                     "The Yesees said yes to anything",
                     "The Noees said no to everything",
                     "So the Yesees all died of much too much",
