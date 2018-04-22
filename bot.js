@@ -8,6 +8,12 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "The reason why men enter into society is the preservation of their property",
+                    "The instruction we find in books is like fire",
+                    "I know many books which have bored their readers",
+                    "To the wicked, everything serves as pretext",
+                    "To hold a pen is to be at war",
+                    "Let us read and let us dance - two amusements that will never do any harm to the world",
                     "Pay attention, here's the thick of the plot",
                     "I asked her for Adidas and she bought me Zips!",
                     "Now, this is a story all about how my life got flipped-turned upside down",
