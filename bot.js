@@ -8,6 +8,8 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "I was made for the library, not the classroom.",
+                    "The library is open, unending, free.",
                     "Though I knew I shouldn’t have cared, the words still hurt like pinches.",
                     "School will bring you more success than marriage.",
                     "A tool always begs to be used. The trick is to learn how to use it.",
