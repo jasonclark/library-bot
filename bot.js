@@ -8,6 +8,7 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Finally, from so little sleeping and so much reading, his brain dried up and he went completely out of his mind.",
                     "I was made for the library, not the classroom.",
                     "The library is open, unending, free.",
                     "Though I knew I shouldn’t have cared, the words still hurt like pinches.",
