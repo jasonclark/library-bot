@@ -8,6 +8,10 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "I've got information man! New shit has come to light!"
+                    "Show me a family of readers, and I will show you the people who move the world.",
+                    "Once you learn to read, you will be forever free.",
+                    "Stories are for eternity, when memory is erased, when there is nothing to remember except the story.",
                     "Finally, from so little sleeping and so much reading, his brain dried up and he went completely out of his mind.",
                     "I was made for the library, not the classroom.",
                     "The library is open, unending, free.",
