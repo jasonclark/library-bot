@@ -8,6 +8,13 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "When it was proclaimed that the Library contained all books, the first impression was one of extravagant happiness.",
+                    "the multiform Library will have produced the unprecedented language required",
+                    "The universe (which others call the Library) is composed of an indefinite and perhaps infinite number of hexagonal galleries",
+                    "Like all men of the Library, I have traveled in my youth",
+                    "I have wandered in search of a book, perhaps the catalogue of catalogues",
+                    "The Library is a sphere whose exact center is any one of its hexagons and whose circumference is inaccessible.",
+                    "Man, the imperfect librarian, may be the product of chance or of malevolent demiurgi",
                     "I've got information man! New shit has come to light!",
                     "Show me a family of readers, and I will show you the people who move the world.",
                     "Once you learn to read, you will be forever free.",
