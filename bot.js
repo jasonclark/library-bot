@@ -8,6 +8,13 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Sara spelled without an 'h' was getting bored",
+                    "That make it possible for all white boys to dance",
+                    "I want to ride my bicycle bicycle bicycle",
+                    "We are the champions, my friends,",
+                    "All we hear is Radio ga ga / Radio goo goo",
+                    "Buddy you're a boy make a big noise",
+                    "Caviar and cigarettes / Well versed in etiquette",
                     "Common are speakers who honor the scroll / Scrolls written daily creates a new sound",
                     "Took a look, dropped my textbook",
                     "Greetings girl and welcome to my world of phrase",
