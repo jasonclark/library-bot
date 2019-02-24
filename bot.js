@@ -8,6 +8,8 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Cause London is drowning, I, I live by the river",
+                    "And after all this, won't you give me a smile?",
                     "There is a time for many words, and there is also a time for sleep.",
                     "I didn't lie! I just created fiction with my mouth!",
                     "it even tempts him to blurt out stories better never told",
