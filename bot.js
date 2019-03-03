@@ -8,6 +8,13 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Welcome to your De La Soul read-along storybook!",
+                    "When you hear this sound... (Ding) that means turn the page.",
+                    "Searching for the cheese, looking for the text",
+                    "Pass the peas like they used to say (ha ha ha, ha ha ha ha)",
+                    "And with the quickness she'll recite like a poem",
+                    "I travel miles with a rhythmic lip",
+                    "With the quickness I bust the true slang",
                     "Cause London is drowning, I, I live by the river",
                     "And after all this, won't you give me a smile?",
                     "When they kick at your front door / How you gonna come?",
