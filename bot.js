@@ -16,7 +16,7 @@ var phraseArray = [ "#heylibrary",
                     "And in its place you can install / A lovely bookshelf on the wall. ",
                     "Great Scott! Gadzooks! One half their lives was reading books!",
                     "All the reading she had done had given her a view of life that they had never seen.",
-                    "nurtured by the voices of all those authors who had sent their books out into the world like ships on the sea"
+                    "nurtured by the voices of all those authors who had sent their books out into the world like ships on the sea",
                     "The books gave Matilda a comforting message: You are not alone.",
                     "Welcome to your De La Soul read-along storybook!",
                     "When you hear this sound... (Ding) that means turn the page.",
