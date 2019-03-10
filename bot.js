@@ -8,6 +8,16 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "You chose books. I chose looks.",
+                    "Sit back and allow the words to wash around you, like music.",
+                    "The way he tells it I feel I am right there on the spot watching it all happen.",
+                    "there she would sit and read most afternoons, often with a mug of hot chocolate beside her",
+                    "No book ever ends / When it's full of your friends / The Giraffe and the Pelly and me.",
+                    "And in its place you can install / A lovely bookshelf on the wall. ",
+                    "Great Scott! Gadzooks! One half their lives was reading books!",
+                    "All the reading she had done had given her a view of life that they had never seen.",
+                    "nurtured by the voices of all those authors who had sent their books out into the world like ships on the sea"
+                    "The books gave Matilda a comforting message: You are not alone.",
                     "Welcome to your De La Soul read-along storybook!",
                     "When you hear this sound... (Ding) that means turn the page.",
                     "Searching for the cheese, looking for the text",
