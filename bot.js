@@ -630,6 +630,14 @@ var phraseArray = [ "#heylibrary",
                     "Everyday I write the book",
                     "We be reading Marx where I'm from",
                     "so much depends / upon a red wheel barrow",
+                    "There is no such thing as a moral or an immoral book",
+                    "Books are well written, or badly written. That is all.",
+                    "One should always have something sensational to read in the train",
+                    "I am too fond of reading books to care to write them",
+                    "A woman's face is her work of fiction.",
+                    "The mere fact of having published a book of second-rate sonnets makes a man quite irresistible",
+                    "He lives the poetry that he cannot write.",
+                    "I don't like novels that end happily",
                     "where i'm from it's purple when it snows"
                   ];
 function chooseRandom(myArray) {
