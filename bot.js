@@ -8,6 +8,13 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "but at that time I knew nothing of the science of words or letters",
+                    "I perceived that the words they spoke sometimes produced pleasure or pain,",
+                    "I conjectured, therefore, that he found on the paper signs for speech",
+                    "the stranger uttered articulate sounds and appeared to have a language of her own",
+                    "I also learned the science of letters as it was taught to the stranger",
+                    "These wonderful narrations inspired me with strange feelings.",
+                    "As I read, however, I applied much personally to my own feelings and condition.",
                     "Though she be but little, she is fierce!",
                     "Love's stories written in love's richest books.",
                     "Ay me! for aught that ever I could read",
