@@ -8,6 +8,12 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "this opened before me a wide field for wonder and delight",
+                    "found on the ground a leathern portmanteau containing several articles of dress and some books",
+                    "By your language, stranger, I suppose you are my countryman;",
+                    "I am twenty-eight and am in reality more illiterate than many schoolboys of fifteen",
+                    "He was deeply read in books of chivalry and romance.",
+                    "While I improved in speech, I also learned the science of letters as it was taught to the stranger",
                     "but at that time I knew nothing of the science of words or letters",
                     "I perceived that the words they spoke sometimes produced pleasure or pain,",
                     "I conjectured, therefore, that he found on the paper signs for speech",
