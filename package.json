@@ -25,7 +25,7 @@
   "homepage": "https://github.com/jasonclark/library-bot#readme",
   "dependencies": {
     "node-twitterbot": "^0.2.2",
-    "npm": "^6.5.0",
-    "twit": "^2.2.5"
+    "npm": "^6.9.0",
+    "twit": "^2.2.11"
   }
 }
