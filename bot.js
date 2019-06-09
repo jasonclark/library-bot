@@ -8,6 +8,11 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Fukú americanus, or more colloquially, fukú - generally a curse or doom of some kind",
+                    "Dude wore his nerdiness like a Jedi wore his light saber",
+                    "I flip through the book, one of his top three, without question, to the last horrifying chapter",
+                    "The only way out is in. And that’s what I guess these stories are all about.",
+                    "back when he was nine and lost and lonely and his favorite librarian had said,",
                     "You been tellin' me you're a genius since you were seventeen",
                     "The weekend at the college didn't turn out like you planned",
                     "The things that pass for knowledge I can't understand",
