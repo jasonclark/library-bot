@@ -8,6 +8,7 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Walking down a sunny street to the library / Checking out the latest books on outer space",
                     "Fukú americanus, or more colloquially, fukú - generally a curse or doom of some kind",
                     "Dude wore his nerdiness like a Jedi wore his light saber",
                     "I flip through the book, one of his top three, without question, to the last horrifying chapter",
