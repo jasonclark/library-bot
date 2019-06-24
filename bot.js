@@ -8,6 +8,13 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "When I'm out walking, I strut my stuff",
+                    "Let me go on / Like I blister in the sun",
+                    "You can all just kiss off into the air",
+                    "I hope you know that this will go down on your permanent record!",
+                    "Words to memorize, words hypnotize",
+                    "But there's a windy city / In my bedroom alone",
+                    "Situation gets rough, then I start to panic",
                     "Walking down a sunny street to the library / Checking out the latest books on outer space",
                     "She's just sitting in her room reading books about UFOs",
                     "Seems she forgot all about the library / Like she told her old man now",
