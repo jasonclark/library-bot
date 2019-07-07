@@ -8,6 +8,9 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Nightswimming deserves a quiet night",
+                    "Every streetlight reveals the picture in reverse",
+                    "The photograph on the dashboard, taken years ago",
                     "I often wonder what I'd do if there weren't any books in the world.",
                     "The artistic image is not intended to represent the thing itself",
                     "All I know about music is that not many people ever really hear it.",
