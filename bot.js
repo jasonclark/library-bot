@@ -8,6 +8,12 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Well I got this guitar, and I learned how to make it talk",
+                    "Hey, I know it's late, we can make it if we run",
+                    "And I know you're lonely for words that I ain't spoken",
+                    "And the poets down here don't write nothing at all",
+                    "I'm sitting down here in the campfire light / Searching for the ghost of Tom Joad",
+                    "He pulls a prayer book out of his sleeping bag",
                     "Sun-baked slender heroine / Of film & magazine",
                     "Well I've walked these streets / In a carnival",
                     "They reach into my head / To steal the glory of my story",
