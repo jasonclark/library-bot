@@ -8,6 +8,11 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "But I have swam through libraries and sailed through oceans",
+                    "Ahab has his humanities!",
+                    "I, Ishmael, was one of that crew",
+                    "Nantucket! Take out your map and look at it.",
+                    "I have read his plain and faithful narrative",
                     "Well I got this guitar, and I learned how to make it talk",
                     "Hey, I know it's late, we can make it if we run",
                     "And I know you're lonely for words that I ain't spoken",
