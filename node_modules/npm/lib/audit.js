@@ -39,7 +39,7 @@ module.exports = auditCmd
 const usage = require('./utils/usage')
 auditCmd.usage = usage(
   'audit',
-  '\nnpm audit [--json]' +
+  '\nnpm audit [--json] [--production]' +
   '\nnpm audit fix ' +
   '[--force|--package-lock-only|--dry-run|--production|--only=(dev|prod)]'
 )
@@ -175,7 +175,7 @@ function auditCmd (args, cb) {
     const requires = Object.assign(
       {},
       (pkgJson && pkgJson.dependencies) || {},
-      (pkgJson && pkgJson.devDependencies) || {}
+      (!opts.production && pkgJson && pkgJson.devDependencies) || {}
     )
     return lockVerify(npm.prefix).then((result) => {
       if (result.status) return audit.generate(sw, requires)
@@ -196,7 +196,10 @@ function auditCmd (args, cb) {
       } else if (err.statusCode === 404) {
         msg = `Your configured registry (${opts.registry}) does not support audit requests.`
       } else {
-        msg = `Your configured registry (${opts.registry}) does not support audit requests, or the audit endpoint is temporarily unavailable.`
+        msg = `Your configured registry (${opts.registry}) may not support audit requests, or the audit endpoint may be temporarily unavailable.`
+      }
+      if (err.body.length) {
+        msg += '\nThe server said: ' + err.body
       }
       const ne = new Error(msg)
       ne.code = 'ENOAUDIT'

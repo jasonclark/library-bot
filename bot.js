@@ -8,6 +8,8 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "the Harlem Branch Y, where I take the elevator up to my room, sit down, and write this page",
+                    "This is my page for English B.",
                     "12:51 is the time my voice found the words I sought",
                     "Is it this stage I want?",
                     "He seemed impressed by the way you came in",
