@@ -8,6 +8,7 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "I was dreamin' when I wrote this, forgive me if it goes astray",
                     "the Harlem Branch Y, where I take the elevator up to my room, sit down, and write this page",
                     "This is my page for English B.",
                     "I, too, sing America.",
