@@ -8,6 +8,10 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "What are the words you do not yet have?",
+                    "Your silence will not protect you.",
+                    "that what is most important to me must be spoken, made verbal and shared,",
+                    "reach down into that deep place of knowledge inside herself",
                     "I've been looking so long at these pictures of you",
                     "That I almost believe that the pictures are all I can feel",
                     "I pull my eyes out, hold my breath and wait until I sha-ha-ha-hake",
