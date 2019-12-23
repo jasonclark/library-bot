@@ -8,6 +8,11 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "There are years that ask questions and years that answer.",
+                    "She didn't read books so she didn't know",
+                    "until something fell off the shelf inside her",
+                    "For instance, the words of the trees and the wind.",
+                    "I had hundreds of books under my skin already",
                     "And you will find you have fallen in love with your own vision",
                     "Did you merely finger through them for quotations",
                     "We are powerful because we have survived",
