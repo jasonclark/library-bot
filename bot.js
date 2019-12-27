@@ -8,6 +8,10 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "infinite intricacy that only the body, in its strong blind way, could ever read",
+                    "The Matrix has its roots in primitive arcade games",
+                    "hypnagogic images jerking past like a film compiled of random frames.",
+                    "Cyberspace. A consensual hallucination experienced daily",
                     "A graphic representation of data abstracted from banks of every computer in the human system",
                     "and he was no Console Man, no cyberspace cowboy",
                     "It was called dub, a sensuous mosaic cooked from vast libraries of digitalized pop;",
