@@ -8,6 +8,12 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "A graphic representation of data abstracted from banks of every computer in the human system",
+                    "and he was no Console Man, no cyberspace cowboy",
+                    "It was called dub, a sensuous mosaic cooked from vast libraries of digitalized pop;",
+                    "All fiction, whether straight or genre, whether literature or Literature, is a personal reinterpretation of its writers' existence",
+                    "voiceprinters wrapped in sheets of clear plastic, evidence that the written word still enjoyed a certain prestige here",
+                    "Every AI ever built has an electromagnetic shotgun wired to its forehead",
                     "There are years that ask questions and years that answer.",
                     "She didn't read books so she didn't know",
                     "until something fell off the shelf inside her",
