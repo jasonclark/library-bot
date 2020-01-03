@@ -853,6 +853,17 @@ var phraseArray = [ "#heylibrary",
                     "The mere fact of having published a book of second-rate sonnets makes a man quite irresistible",
                     "He lives the poetry that he cannot write.",
                     "I don't like novels that end happily",
+                    "People writing songs that voices never share",
+                    "Hello darkness, my old friend",
+                    "But my words, like silent raindrops, fell",
+                    "The words of the prophets are written on the subway walls",
+                    "She said the man in the gabardine suit was a spy",
+                    "I am just a poor boy, though my story's seldom told",
+                    "When I left my home and my family, I was no more than a boy",
+                    "In the clearing stands a boxer, and a fighter by his trade",
+                    "We'd like to know a little bit about you for our files",
+                    "And here's to you, Mrs. Robinson",
+                    "What's that you say, Mrs. Robinson",
                     "where i'm from it's purple when it snows"
                   ];
 function chooseRandom(myArray) {
