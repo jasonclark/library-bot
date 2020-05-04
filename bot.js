@@ -12,7 +12,7 @@ var phraseArray = [ "#heylibrary",
                     "The mediator of the head and the hands must be the heart",
                     "We shall build a tower that will reach to the stars!",
                     "the minds that planned the Tower of Babel cared nothing for the workers",
-                    "The hymns of praise of the few became the curses of the many - BABEL! BABEL! BABEL!"
+                    "The hymns of praise of the few became the curses of the many - BABEL! BABEL! BABEL!",
                     "Death to the machines!",
                     "Oh mediator, have you finally come?",
                     "Who told you to attack the machines, you fools?",
