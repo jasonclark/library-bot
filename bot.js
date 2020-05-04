@@ -8,6 +8,17 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#oklibrary",
+                    "Why was my son allowed to go into the machine rooms?",
+                    "The mediator of the head and the hands must be the heart",
+                    "We shall build a tower that will reach to the stars!",
+                    "the minds that planned the Tower of Babel cared nothing for the workers",
+                    "The hymns of praise of the few became the curses of the many - BABEL! BABEL! BABEL!"
+                    "Death to the machines!",
+                    "Oh mediator, have you finally come?",
+                    "Who told you to attack the machines, you fools?",
+                    "What were you doing in the machine halls, Freder?",
+                    "If the Heart Machine is destroyed the entire machine district will",
+                    "Let the machines starve, you fools! Let them die!",
                     "'Bout that personality crisis, you got it while it was hot",
                     "Trash, go pick it up, take them lights away",
                     "Something must have happened over Manhattan",
