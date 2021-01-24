@@ -7,6 +7,7 @@ var Bot = new TwitterBot({
  access_token_secret: process.env.BOT_ACCESS_TOKEN_SECRET
 });
 var phraseArray = [ "#heylibrary",
+                    "#LibraryTwitter",
                     "Go ahead and try, that's a different story. Similar to Grimm, I could tell a better one",
                     "The rhymes be getting sweet, we stay away from tart",
                     "One hitting reading pages of Poe. Telly is low, cuddle bunny ready to go",
