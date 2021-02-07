@@ -8,9 +8,10 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#LibraryTwitter",
-                    "#LibraryTwitter",
-                    "#LibraryTwitter",
-                    "#LibraryTwitter",
+                    "You've got to be a do right, home nights man",
+                    "It's a different world (ooh ooh) than where ya come from",
+                    "You can dish it, we can take it (hey!)",
+                    "And just like the river I've been running ever since",
                     "(Think) Let your mind go, let yourself be free",
                     "Oh oh-oh-oh think (What you're tryna to do to me)",
                     "But it don't take too much high IQ to see what you're doing to me",
