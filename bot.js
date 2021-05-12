@@ -8,6 +8,8 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#LibraryTwitter",
+                    "The ink is black, the page is white",
+                    "Together we learn how to read and write",
                     "Up on a hill, here's where we begin, this little story, a long time ago",
                     "The signals don't seem right, it lasts for just one night and then",
                     "And I've lost my page again, I know this is surreal, but I'll try my luck with you",
