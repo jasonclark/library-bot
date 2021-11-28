@@ -8,6 +8,13 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#LibraryTwitter",
+                    "in the marches I undertook in the pursuit of books!",
+                    "You could tell a lot about a man by the books he keeps",
+                    "The work of memory collapses time.",
+                    "by now almost nothing that happens benefits storytelling; almost everything benefits information",
+                    "it is half the art of storytelling to keep a story free from explanation",
+                    "No poem is intended for the reader, no picture for the beholder, no symphony for the listener",
+                    "The first true storyteller is, and will continue to be, the teller of fairy tales",
                     "In the suburbs, I learned to drive",
                     "All the kids have always known that the emperor wears no clothes",
                     "Like the kids in art school said they would",
