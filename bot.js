@@ -8,6 +8,9 @@ var Bot = new TwitterBot({
 });
 var phraseArray = [ "#heylibrary",
                     "#LibraryTwitter",
+                    "I shall be miserable if I have not an excellent library",
+                    "I cannot comprehend the neglect of a family library",
+                    "I declare after all there is no enjoyment like reading!",
                     "For storytelling is always the art of repeated stories",
                     "and this art is lost when the stories are no longer retained",
                     "To great writers, finished works weigh lighter",
